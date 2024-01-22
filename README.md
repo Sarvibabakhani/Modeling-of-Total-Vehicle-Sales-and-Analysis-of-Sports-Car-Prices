@@ -1,4 +1,4 @@
-# Modeling-of-Total-Vehicle-Sales-in-the-US-and-Analysis-of-Sports-Car-Prices
+# Modeling-of-Total-Vehicle-Sales-and-Analysis-of-Sports-Car-Prices
 This project focused on two key areas: time series
 analysis of total vehicle sales in the US and analysis of
 sports car prices. The primary objective was to gain
